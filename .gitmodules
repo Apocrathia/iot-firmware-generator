@@ -1,3 +1,7 @@
 [submodule "freertos/FreeRTOS-Kernel"]
 	path = freertos/FreeRTOS-Kernel
 	url = https://github.com/FreeRTOS/FreeRTOS-Kernel
+
+[submodule "esp-idf/esp-idf"]
+	path = esp-idf/esp-idf
+	url = https://github.com/espressif/esp-idf
